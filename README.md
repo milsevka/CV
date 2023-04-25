@@ -38,7 +38,7 @@ A classic online store with product filtering, a basket of goods and the ability
 
 - **Canva**
 
-A clone of the canva.com site, but with additional features - random logo generation and the ability to draw (paint). It was a team final project (3 people), which gave a lot of teamwork experience.
+A clone of the <a href="https://www.canva.com/ru_ru/" target="_blank">canva</a> site, but with additional features - random logo generation and the ability to draw (paint). It was a team final project (3 people), which gave a lot of teamwork experience.
 
 **Website link:** https://rs-clone-canva.netlify.app/#main-page/
 
