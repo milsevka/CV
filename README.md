@@ -22,7 +22,7 @@ Momentum app clone with player, picture changer, weather widget (implemented usi
 
 The 15 puzzle (also called Gem Puzzle, Boss Puzzle and many others) is a sliding puzzle having 15 square tiles numbered 1–15 in a frame that is 4 tile positions high and 4 positions wide (for a total of 16 positions), leaving one unoccupied position. In this game implemented a score of moves, a timer, a grid from 3^3 to 8^8, there is also a sound of the game and remembering the best result.
 
-**Website link:** https://rolling-scopes-school.github.io/milsevka-JSFE2022Q3/gem-puzzle/
+**Website link:** https://milsevka-gem-puzzle.netlify.app/
 
 - **Song Bird**
 
