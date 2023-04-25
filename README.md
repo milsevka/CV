@@ -28,7 +28,7 @@ The 15 puzzle (also called Gem Puzzle, Boss Puzzle and many others) is a sliding
 
 Quiz dedicated to birds has 6 levels, the ability to play in 3 languages (Belarusian, English and Russian), it is possible to view the gallery with all the birds presented in the game.
 
-**Website link:** https://rolling-scopes-school.github.io/milsevka-JSFE2022Q3/song-bird/pages/home/index.html
+**Website link:** https://song-bird-milsevka.netlify.app/
 
 - **Online Store**
 
