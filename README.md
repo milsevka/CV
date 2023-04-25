@@ -14,13 +14,13 @@
 **My study projects:**
 - **Momentum**
 
-Momentum app clone with player, picture changer, weather widget (implemented using api, quotes of the day, the ability to hide widgets and use the program in Belarusian and Russian language. In this game implemented a score of moves, a timer, a grid from 3^3 to 8^8, there is also a sound of the game and remembering the best result
+Momentum app clone with player, picture changer, weather widget (implemented using wheather api, quotes of the day, the ability to hide widgets and use the program in Belarusian and Russian language.
 
 **Website link:** https://milsevka-momentum.netlify.app/
 
 - **Gem Puzzle**
 
-The 15 puzzle (also called Gem Puzzle, Boss Puzzle and many others) is a sliding puzzle having 15 square tiles numbered 1–15 in a frame that is 4 tile positions high and 4 positions wide (for a total of 16 positions), leaving one unoccupied position.
+The 15 puzzle (also called Gem Puzzle, Boss Puzzle and many others) is a sliding puzzle having 15 square tiles numbered 1–15 in a frame that is 4 tile positions high and 4 positions wide (for a total of 16 positions), leaving one unoccupied position. In this game implemented a score of moves, a timer, a grid from 3^3 to 8^8, there is also a sound of the game and remembering the best result.
 
 **Website link:** https://rolling-scopes-school.github.io/milsevka-JSFE2022Q3/gem-puzzle/
 
@@ -48,7 +48,8 @@ A clone of the canva.com site, but with additional features - random logo genera
   <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="TypeScript" height="60" /></a>  
   <a href="[https://www.javascript.com/](https://www.typescriptlang.org/)" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="60" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="60" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="60" /></a>  
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="60" /></a>
+<a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" height="60" /></a> 
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="60" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="60" /></a>
  </div>  
