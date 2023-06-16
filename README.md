@@ -19,43 +19,41 @@ This is an online zoo website with a pixel perfect responsive design and animate
 
 **<a href="https://rolling-scopes-school.github.io/milsevka-JSFE2022Q3/online-zoo/pages/main/index.html" target="_blank">Website link</a>**
 
-**Website link:** https://rolling-scopes-school.github.io/milsevka-JSFE2022Q3/online-zoo/pages/main/index.html
-
 - **Momentum**
 
 Momentum app clone with player, picture changer, weather widget (implemented using wheather api, quotes of the day, the ability to hide widgets and use the program in Belarusian and Russian language.
 
-**Website link:** https://milsevka-momentum.netlify.app/
+**<a href="https://milsevka-momentum.netlify.app/" target="_blank">Website link</a>**
 
 - **Gem Puzzle**
 
 The 15 puzzle (also called Gem Puzzle, Boss Puzzle and many others) is a sliding puzzle having 15 square tiles numbered 1–15 in a frame that is 4 tile positions high and 4 positions wide (for a total of 16 positions), leaving one unoccupied position. In this game implemented a score of moves, a timer, a grid from 3^3 to 8^8, there is also a sound of the game and remembering the best result.
 
-**Website link:** https://milsevka-gem-puzzle.netlify.app/
+**<a href="https://milsevka-gem-puzzle.netlify.app/" target="_blank">Website link</a>**
 
 - **Song Bird**
 
 Quiz dedicated to birds has 6 levels, the ability to play in 3 languages (Belarusian, English and Russian), it is possible to view the gallery with all the birds presented in the game.
 
-**Website link:** https://song-bird-milsevka.netlify.app/
+**<a href="https://song-bird-milsevka.netlify.app/" target="_blank">Website link</a>**
 
 - **Online Store**
 
 A classic online store with product filtering, a basket of goods and the ability to order goods (card data validation).
 
-**Website link:** https://milsevka-online-store.netlify.app/
+**<a href="https://milsevka-online-store.netlify.app/" target="_blank">Website link</a>**
 
 - **Canva**
 
 A clone of the <a href="https://www.canva.com/ru_ru/" target="_blank">canva</a> site, but with additional features - random logo generation and the ability to draw (paint). It was a team final project (3 people), which gave a lot of teamwork experience.
 
-**Website link:** https://rs-clone-canva.netlify.app/#main-page/
+**<a href="https://rs-clone-canva.netlify.app/#main-page/" target="_blank">Website link</a>**
 
 - **GraphQL Editor**
 
 It was a team final project (3 people) in react courses. Via our app you can build a complex GraphQL API in no time using only your browser. The power of GraphQL is now at your fingertips!
 
-**Website link:** https://graphi-ql.vercel.app/
+**<a href="https://graphi-ql.vercel.app/" target="_blank">Website link</a>**
 
 
 ## Languages and Tools  
