@@ -42,6 +42,12 @@ A clone of the <a href="https://www.canva.com/ru_ru/" target="_blank">canva</a> 
 
 **Website link:** https://rs-clone-canva.netlify.app/#main-page/
 
+- **GraphQL Editor**
+
+It was a team final project (3 people) in react courses. Via our app you can build a complex GraphQL API in no time using only your browser. The power of GraphQL is now at your fingertips!
+
+**Website link:** https://graphi-ql.vercel.app/
+
 
 ## Languages and Tools  
 <div align="center">  
