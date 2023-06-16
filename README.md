@@ -12,6 +12,15 @@
 [![codewars](https://www.codewars.com/users/milsevka/badges/large)](https://www.codewars.com/users/milsevka)
 
 **My study projects:**
+
+- **Online Zoo**
+
+This is an online zoo website with a pixel perfect responsive design and animated elements.
+
+**<a href="https://rolling-scopes-school.github.io/milsevka-JSFE2022Q3/online-zoo/pages/main/index.html" target="_blank">Website link</a>**
+
+**Website link:** https://rolling-scopes-school.github.io/milsevka-JSFE2022Q3/online-zoo/pages/main/index.html
+
 - **Momentum**
 
 Momentum app clone with player, picture changer, weather widget (implemented using wheather api, quotes of the day, the ability to hide widgets and use the program in Belarusian and Russian language.
